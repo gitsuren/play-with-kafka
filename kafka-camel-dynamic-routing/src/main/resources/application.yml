@@ -1,0 +1,13 @@
+camel:
+  springboot:
+    main-run-controller: true
+    bootstrapServers: localhost:9092
+    producerTopic: producer
+    consumerTopic1: consumer1
+    consumerTopic2: consumer2
+    consumerTopic3: consumer3
+    failedTopic: failed
+    kafkaUrl: kafka:%s?broker=%s
+    repoFilePath: C:\Users\BAJRACHARYA\work\projects\KAFKA\play-with-kafka\kafka-camel-dynamic-routing\src\main\resources\data
+    auditTopic: AUDIT_LOG
+

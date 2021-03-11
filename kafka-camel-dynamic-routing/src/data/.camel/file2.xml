@@ -7,6 +7,6 @@
         <messageID>123-abcd-5678</messageID>
         <sessionID>123-abcd-5678-ssid</sessionID>
         <userID>testUser</userID>
-        <organization>TEST</organization>
+        <organization>testUser</organization>
     </acknowledgementResponse>
 </EmailCommunicationResponse>

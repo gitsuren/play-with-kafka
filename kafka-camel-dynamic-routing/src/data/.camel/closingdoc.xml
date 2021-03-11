@@ -1,0 +1,10 @@
+<Notification>
+    <Type xmlns="">101</Type>
+    <Code>1</Code>
+    <Name>Test</Name>
+    <Year>2020</Year>
+    <Category>CAT1</Category>
+    <Source>XYZ</Source>
+    <AppID>12345</AppID>
+    <ActivityCode>PQR</ActivityCode>
+</Notification>
